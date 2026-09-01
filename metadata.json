@@ -1,0 +1,7 @@
+{
+  "name": "ProcureFlow Enterprise",
+  "description": "Smart Procurement & Purchase Order Management System with multi-level approval, supplier ranking, delivery tracking, inventory sync, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
